@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
+<div align="center"> <img src="https://github.com/gupta24789/gupta24789/blob/main/banner-1.jpg"> </div>
 <h3 align="center">A passionate data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta24789&label=Profile%20views&color=0e75b6&style=flat" alt="gupta24789" /> </p>
