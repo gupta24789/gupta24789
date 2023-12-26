@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Large Language Models**
 
-- 💬 Ask me about **pandas, numpy, predictive modeling, nlp, deep learning**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **csit.saurabh@gmail.com**
 
